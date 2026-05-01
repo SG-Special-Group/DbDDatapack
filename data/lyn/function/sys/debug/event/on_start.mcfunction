@@ -1,0 +1,1 @@
+tellraw @a[tag=debug] [{"text":"[DEBUG] ","color":"gray"},{"text":"Game Start Countdown Begin\n","color":"yellow"},{"text":"players="},{"score":{"name":"#global","objective":"player_count"}},{"text":" timer="},{"score":{"name":"#global","objective":"timer"}}]

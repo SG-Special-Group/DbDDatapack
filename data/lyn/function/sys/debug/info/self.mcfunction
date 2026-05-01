@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[INFO] ","color":"gray"},{"text":"Self\n","color":"aqua"},{"text":" role="},{"score":{"name":"@s","objective":"role"}},{"text":" state="},{"score":{"name":"@s","objective":"state"}}]
