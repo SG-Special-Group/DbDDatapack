@@ -1,0 +1,1 @@
+tellraw @a[tag=debug] [{"text":"[DEBUG] ","color":"gray"},{"text":"Game Reset\n","color":"blue"},{"text":" game_state="},{"score":{"name":"#global","objective":"game_state"}},{"text":" win_state="},{"score":{"name":"#global","objective":"win_state"}}]

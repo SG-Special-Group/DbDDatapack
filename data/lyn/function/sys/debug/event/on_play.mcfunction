@@ -1,0 +1,2 @@
+tellraw @a[tag=debug] [{"text":"[DEBUG] ","color":"gray"},{"text":"Game Started\n","color":"green"},{"text":"game_state="},{"score":{"name":"#global","objective":"game_state"}}]
+execute as @a[tag=in_game] run tellraw @a[tag=debug] [{"text":" - "},{"selector":"@s"},{"text":" role="},{"score":{"name":"@s","objective":"role"}}]

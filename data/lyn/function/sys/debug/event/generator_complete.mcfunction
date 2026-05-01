@@ -1,0 +1,1 @@
+tellraw @a[tag=debug] [{"text":"[DEBUG] ","color":"gray"},{"text":"Generator completed","color":"green"}]

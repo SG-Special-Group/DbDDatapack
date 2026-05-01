@@ -1,0 +1,1 @@
+function lyn:sys/debug/event/on_start

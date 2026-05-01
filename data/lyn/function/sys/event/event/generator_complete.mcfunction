@@ -1,0 +1,1 @@
+function lyn:sys/debug/event/generator_complete
